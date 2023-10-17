@@ -1,3 +1,5 @@
+# Caching
+
 ## Introduction
 Caching is a fundamental technique used in computer science to optimize the performance and speed of applications and websites. Imagine you frequently visit a website; instead of loading every element from scratch every time you visit, caching stores a copy of the website's elements on your device the first time you visit. The next time you access the site, it serves the stored copy, significantly reducing loading times.
 
